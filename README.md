@@ -4,6 +4,7 @@ This is a curated list of awesome Haskell tutorial modules
 
 ## Tutorial modules
 
+* [`Capnp.Tutorial`](http://hackage.haskell.org/package/capnp/docs/Capnp-Tutorial.html)
 * [`Clash.Tutorial`](http://hackage.haskell.org/package/clash-prelude/docs/Clash-Tutorial.html)
 * [`Control.Lens.Tutorial`](http://hackage.haskell.org/package/lens-tutorial/docs/Control-Lens-Tutorial.html)
 * [`Data.Map.Justified.Tutorial`](https://hackage.haskell.org/package/justified-containers/docs/Data-Map-Justified-Tutorial.html)
