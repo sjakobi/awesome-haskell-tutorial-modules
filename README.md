@@ -2,6 +2,8 @@
 
 This is a curated list of awesome Haskell tutorial modules
 
+## Tutorial modules
+
 * [`Clash.Tutorial`](http://hackage.haskell.org/package/clash-prelude/docs/Clash-Tutorial.html)
 * [`Control.Lens.Tutorial`](http://hackage.haskell.org/package/lens-tutorial/docs/Control-Lens-Tutorial.html)
 * [`Data.OpenADT.Tutorial`](http://hackage.haskell.org/package/open-adt-tutorial/docs/Data-OpenADT-Tutorial.html)
@@ -11,3 +13,8 @@ This is a curated list of awesome Haskell tutorial modules
 * [`Streamly.Tutorial`](http://hackage.haskell.org/package/streamly/docs/Streamly-Tutorial.html)
 * [`System.IO.Streams.Tutorial`](https://hackage.haskell.org/package/io-streams/docs/System-IO-Streams-Tutorial.html)
 * [`Turtle.Tutorial`](http://hackage.haskell.org/package/turtle/docs/Turtle-Tutorial.html)
+
+## Other resources for Haskell documentation
+
+* [Haskell tutorials, a tutorial](https://yannesposito.com/Scratch/en/blog/Haskell-Tutorials--a-tutorial/)
+* [Official documentation for Haddock markup](https://haskell-haddock.readthedocs.io/en/latest/markup.html)
