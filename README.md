@@ -3,9 +3,10 @@
 This is a curated list of awesome Haskell tutorial modules
 
 * [`Control.Lens.Tutorial`](http://hackage.haskell.org/package/lens-tutorial/docs/Control-Lens-Tutorial.html)
+* [`Data.OpenADT.Tutorial`](http://hackage.haskell.org/package/open-adt-tutorial/docs/Data-OpenADT-Tutorial.html)
 * [`Dhall.Tutorial`](http://hackage.haskell.org/package/dhall/docs/Dhall-Tutorial.html)
 * [`Generic.Random.Tutorial`](http://hackage.haskell.org/package/generic-random/docs/Generic-Random-Tutorial.html)
 * [`Pipes.Tutorial`](http://hackage.haskell.org/package/pipes/docs/Pipes-Tutorial.html)
 * [`Streamly.Tutorial`](http://hackage.haskell.org/package/streamly/docs/Streamly-Tutorial.html)
-* [`System.IO.Streams.Tutorial`](https://hackage.haskell.org/package/io-streams-1.5.1.0/docs/System-IO-Streams-Tutorial.html)
+* [`System.IO.Streams.Tutorial`](https://hackage.haskell.org/package/io-streams/docs/System-IO-Streams-Tutorial.html)
 * [`Turtle.Tutorial`](http://hackage.haskell.org/package/turtle/docs/Turtle-Tutorial.html)
