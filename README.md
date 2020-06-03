@@ -2,6 +2,7 @@
 
 This is a curated list of awesome Haskell tutorial modules
 
+* [`Clash.Tutorial`](http://hackage.haskell.org/package/clash-prelude/docs/Clash-Tutorial.html)
 * [`Control.Lens.Tutorial`](http://hackage.haskell.org/package/lens-tutorial/docs/Control-Lens-Tutorial.html)
 * [`Data.OpenADT.Tutorial`](http://hackage.haskell.org/package/open-adt-tutorial/docs/Data-OpenADT-Tutorial.html)
 * [`Dhall.Tutorial`](http://hackage.haskell.org/package/dhall/docs/Dhall-Tutorial.html)
