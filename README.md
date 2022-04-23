@@ -11,6 +11,7 @@ This is a curated list of awesome Haskell tutorial modules
 * [`Data.OpenADT.Tutorial`](http://hackage.haskell.org/package/open-adt-tutorial/docs/Data-OpenADT-Tutorial.html)
 * [`Datafix.Tutorial`](https://hackage.haskell.org/package/datafix/docs/Datafix-Tutorial.html)
 * [`Dhall.Tutorial`](http://hackage.haskell.org/package/dhall/docs/Dhall-Tutorial.html)
+* [`Error.Diagnose`](https://hackage.haskell.org/package/diagnose/docs/Error-Diagnose.html)
 * [`Generic.Random.Tutorial`](http://hackage.haskell.org/package/generic-random/docs/Generic-Random-Tutorial.html)
 * [`Pipes.Tutorial`](http://hackage.haskell.org/package/pipes/docs/Pipes-Tutorial.html)
 * [`Streamly.Tutorial`](http://hackage.haskell.org/package/streamly/docs/Streamly-Tutorial.html)
