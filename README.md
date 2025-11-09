@@ -21,5 +21,5 @@ This is a curated list of awesome Haskell tutorial modules
 ## Other resources for Haskell documentation
 
 * [Haskell tutorials, a tutorial](https://yannesposito.com/Scratch/en/blog/Haskell-Tutorials--a-tutorial/)
-* [Official documentation for Haddock markup](https://haskell-haddock.readthedocs.io/en/latest/markup.html)
+* [Official documentation for Haddock markup](https://haskell-haddock.readthedocs.io/latest/markup.html)
 * [Haddock tips](https://kowainik.github.io/posts/haddock-tips)
