@@ -14,7 +14,6 @@ This is a curated list of awesome Haskell tutorial modules
 * [`Error.Diagnose`](https://hackage.haskell.org/package/diagnose/docs/Error-Diagnose.html)
 * [`Generic.Random.Tutorial`](http://hackage.haskell.org/package/generic-random/docs/Generic-Random-Tutorial.html)
 * [`Pipes.Tutorial`](http://hackage.haskell.org/package/pipes/docs/Pipes-Tutorial.html)
-* [`Streamly.Tutorial`](http://hackage.haskell.org/package/streamly/docs/Streamly-Tutorial.html)
 * [`System.IO.Streams.Tutorial`](https://hackage.haskell.org/package/io-streams/docs/System-IO-Streams-Tutorial.html)
 * [`Turtle.Tutorial`](http://hackage.haskell.org/package/turtle/docs/Turtle-Tutorial.html)
 
